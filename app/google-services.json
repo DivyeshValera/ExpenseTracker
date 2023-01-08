@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "910089940121",
+    "firebase_url": "https://keepaneye-8b933-default-rtdb.firebaseio.com",
+    "project_id": "keepaneye-8b933",
+    "storage_bucket": "keepaneye-8b933.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910089940121:android:c862827c5524619fd49c08",
+        "android_client_info": {
+          "package_name": "com.example.expensetracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910089940121-90iu5k8r7fjpub1se8u35grem79l5c9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1wDdNO0Dg-LOWVvuv6hA0ZP_goRp516A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910089940121-90iu5k8r7fjpub1se8u35grem79l5c9a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "910089940121-uugq9m83s5pevr9ou4hafppsh6q5prvv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Shivam.KeepAnEye"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
